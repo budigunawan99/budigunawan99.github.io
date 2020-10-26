@@ -1,1 +1,1 @@
-dist
+PWA-Based Website Application
