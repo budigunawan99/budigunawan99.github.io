@@ -2,7 +2,7 @@
       "name": "Katalog Restoran Terbaik",
       "short_name": "KopiTiam",
       "description": "The best cafe in Southeast Asia",
-      "start_url": "/index.html",
+      "start_url": "/kopitiam/index.html",
       "display": "standalone",
       "background_color": "#f1e3cb",
       "theme_color": "#ca5116",
