@@ -3,6 +3,13 @@ var serviceWorkerOption = {
     "/font/Poppins-Regular.ttf",
     "/font/MaterialIcons-Regular.woff2",
     "/images/hero-image_1.jpg",
+    "/images/hero-image_1-small.jpg",
+    "/images/nodata.png",
+    "/images/nodata-small.png",
+    "/0.bundle.js",
+    "/1.bundle.js",
+    "/2.bundle.js",
+    "/3.bundle.js",
     "/bundle.js",
     "/kopihalilintarlogo.ico",
     "/manifest.json",
@@ -15,7 +22,6 @@ var serviceWorkerOption = {
     "/images/food_default.png",
     "/images/kopihalilintarlogo.png",
     "/images/kopihalilintartext.png",
-    "/images/nodata.png",
     "/images/user.png",
     "/index.html"
   ]
